@@ -1053,7 +1053,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "api_key",
-                "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.871QaSNd5jZE1_A-TKgBxpurK2Scf4EdlJINOJViMdA",
+                "value": "chave_aqui",
                 "display_name": "API Key",
                 "advanced": true,
                 "input_types": [
@@ -2339,7 +2339,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "api_key",
-                "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.871QaSNd5jZE1_A-TKgBxpurK2Scf4EdlJINOJViMdA",
+                "value": "chave_aqui",
                 "display_name": "API Key",
                 "advanced": true,
                 "input_types": [
