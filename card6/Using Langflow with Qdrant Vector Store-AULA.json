@@ -719,7 +719,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "openai_api_key",
-                "value": "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",
+                "value": "chave_aqui",
                 "display_name": "OpenAI API Key",
                 "advanced": false,
                 "input_types": [
@@ -2005,7 +2005,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "openai_api_key",
-                "value": "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",
+                "value": "chave_aqui",
                 "display_name": "OpenAI API Key",
                 "advanced": false,
                 "input_types": [
@@ -3346,7 +3346,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "api_key",
-                "value": "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",
+                "value": "chave_aqui",
                 "display_name": "OpenAI API Key",
                 "advanced": false,
                 "input_types": [
