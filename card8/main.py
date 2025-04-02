@@ -8,5 +8,5 @@ def run():
         Run the crew.
      """
 
-    inputs = {'topic': 'AI Agents'}
+    inputs = {'topic': 'Viagem para o Piauí'}
     LatestAiDevelopmentCrew().crew().kickoff(inputs=inputs)

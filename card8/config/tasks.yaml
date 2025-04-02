@@ -1,19 +1,18 @@
 # src/latest_ai_development/config/tasks.yaml
 research_task:
   description: >
-    Conduct a thorough research about {topic}
-    Make sure you find any interesting and relevant information given
-    the current year is 2025.
+    Faça uma pesquisa completa sobre o tópico: {topic}
+    Certifique-se de encontrar qualquer informação interessante e relevante sobre pontos turísticos.
   expected_output: >
-    A list with 10 bullet points of the most relevant information about {topic}
+    Uma lista com 10 tópicos das informações mais relevantes sobre o tópico: {topic}
   agent: researcher
 
 reporting_task:
   description: >
-    Review the context you got and expand each topic into a full section for a report.
-    Make sure the report is detailed and contains any and all relevant information.
+    Revise o contexto que você obteve e expanda cada tópico em uma seção completa para um relatório.
+    Certifique-se de que o relatório seja detalhado e contenha toda e qualquer informação relevante.
   expected_output: >
-    A fully fledge reports with the mains topics, each with a full section of information.
-    Formatted as markdown without '```'
+    Um relatório completo com os tópicos principais, cada um com uma seção completa de informações.
+    Formatado como markdown sem '```'
   agent: reporting_analyst
   output_file: report.md
