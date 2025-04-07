@@ -7,7 +7,7 @@ from crewai_tools import TXTSearchTool
 
 from dotenv import load_dotenv
 import os
-from groq import Groq
+
 
 load_dotenv()
 
@@ -43,3 +43,4 @@ crew = Crew(
 )
 
 output = crew.kickoff()
+print(output)

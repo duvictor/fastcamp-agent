@@ -21,7 +21,7 @@ print(text)
 file_writer_tool = FileWriterTool()
 
 # Write content to a file in a specified directory
-result = file_writer_tool.run(filename='ai.txt', content = text, directory = r'D:\Users\paulo\PycharmProjects\fastcamp-agent\card9', overwrite=True)
+result = file_writer_tool._run(filename='ai.txt', content = text, directory = r'D:\Users\paulo\PycharmProjects\fastcamp-agent\card9', overwrite="True")
 print(result)
 
 
